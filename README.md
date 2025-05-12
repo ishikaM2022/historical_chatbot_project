@@ -1,6 +1,8 @@
 # Historical Figure Chatbot (with Gemini API)
 
 This project is a Streamlit web application that allows users to chat with AI-powered personas of famous historical figures. The chatbot leverages Google's Gemini Pro API to generate responses that attempt to mimic the chosen figure's personality, perspective, and speaking style, but with access to knowledge up to the modern era.
+## Live demo
+https://ishikam2022-historical-chatbot-project-app-3vyapy.streamlit.app/
 
 ## Features
 
